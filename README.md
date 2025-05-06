@@ -1,8 +1,8 @@
 ### Hey 👋🏼 , I'm Olga
 Frontend Development | Designer
 
-*📄 Ambitious CS Student
-*⚡ Problem-Solver: Adaptable, quick to tackle challenges, bridging technical and non-technical gaps.
+- 📄 Ambitious CS Student
+- ⚡ Problem-Solver: Adaptable, quick to tackle challenges, bridging technical and non-technical gaps.
 *📫 Telegram: @Olga_uixDesigner
 *🚀 Curious about tech: Quick to learn, love building things that make sense and vibe into reading.
 *🧩 Fun Fact: I do want to be a unicorn that can both code, design, doing 3D
