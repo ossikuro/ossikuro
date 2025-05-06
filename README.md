@@ -1,5 +1,5 @@
-##Hey 👋🏼 , I'm Olga
-####Frontend Development | Designer
+## Hey 👋🏼 , I'm Olga
+#### Frontend Development | Designer
 
 📄 Ambitious CS Student \
 ⚡ Problem-Solver: Adaptable, quick to tackle challenges, bridging technical and non-technical gaps \
