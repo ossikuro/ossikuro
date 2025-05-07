@@ -1,13 +1,20 @@
 ## Hey 👋🏼 , I'm Olga
 #### Frontend Development | Designer
 
-📄 Ambitious CS Student \
-⚡ Problem-Solver: Adaptable, quick to tackle challenges, bridging technical and non-technical gaps \
 📫 Telegram: @Olga_uixDesigner \
-🚀 Curious about tech: Quick to learn, love building things that make sense and vibe into reading \
-🧩 Fun Fact: I do want to be a unicorn that can both code, design, doing 3D
+🚀 Curious about tech: love building things that make sense and vibe into reading \
+🧩 Fun Fact: I do want to be a unicorn that can both code, design and 3D
 
-Interactive demos
+#### Portfolio
+
+| Demo dev projects       | Designer's ares         |
+| ------------- | ------------- |
+| [Company site template](https://polite-liger-b3086d.netlify.app/)|
+|[Rumpel-Shpumpel – hand-made juwerly showcase] (https://rumpel-shpumpel-96gr2.netlify.app/) | Content Cell  |
+| [Rumpel-Shpumpel – hand-made juwerly showcase (https://rumpel-shpumpel-96gr2.netlify.app/)  | Content Cell  |
+| [Tool for growing up creativity](https://creativity-tool.netlify.app/)  | Content Cell  |
+
+#### Designer area
 
 Flex Cheatsheet
 Grid Cheatsheet
